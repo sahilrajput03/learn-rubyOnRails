@@ -1,4 +1,4 @@
-# README
+# README - Abandoned temporarily..
 
 ```bash
 # Create a new app
