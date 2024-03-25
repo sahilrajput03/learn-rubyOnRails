@@ -33,6 +33,6 @@ exclude: ["thoughts-principles-react/node_modules/*"]
 
 4. run the serve command with --livereload, when using below command with `sudo` the devlopment server seems to work (otherwise I get permission error):
 
-`sudo bundle exec jekyll serve --livereload`
+`sudo bundle exec jekyll serve --livereload --incremental`
 
 Thanks
