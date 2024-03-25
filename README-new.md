@@ -28,7 +28,7 @@ gem "webrick", "~> 1.8"
 
 ```yml
 include: [".well-known"]
-exclude: ["thoughts-principles-react"]
+exclude: ["thoughts-principles-react/node_modules/*"]
 ```
 
 4. run the serve command with --livereload, when using below command with `sudo` the devlopment server seems to work (otherwise I get permission error):
