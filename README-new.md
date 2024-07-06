@@ -11,6 +11,18 @@ Sources:
 
 # Steps:
 
+Versions (tested on archlinux): 
+
+```bash
+$ ruby --version
+# OUTPUT:
+# ruby 3.0.6p216 (2023-03-30 revision 23a532679b) [x86_64-linux]
+
+$ bundler --version
+# OUTPUT:
+# Bundler version 2.5.6
+```
+
 Follow from this - [Guide to run Gihtub pages locally with Jekyll](https://github.com/orgs/community/discussions/37669#discussioncomment-4079487)
 
 1. I had to do `sudo bundle install` using sudo otherwise I was getting permission error.
