@@ -60,5 +60,3 @@ bundle install
 # run server
 bundle exec jekyll serve --livereload --incremental
 ```
-
-Thanks
