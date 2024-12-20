@@ -9,7 +9,7 @@ Sources:
 - Exclude folders from jekyll compilation, for e.g., `node_modules` - [Click here](https://talk.jekyllrb.com/t/can-i-exclude-files-in-my-project-folders-from-my-site/396)
 
 
-# Steps:
+# Notes for Archlinux (June 2024)
 
 Versions (tested on archlinux): 
 
@@ -46,5 +46,19 @@ exclude: ["thoughts-principles-react/node_modules/*"]
 4. run the serve command with --livereload, when using below command with `sudo` the devlopment server seems to work (otherwise I get permission error):
 
 `sudo bundle exec jekyll serve --livereload --incremental`
+
+## Notes for MacOS (Dec 2024)
+
+Installing ruby: Search for `Installing rvm` - [Learn MacOS](https://docs.google.com/document/d/1d4Tq28JC17lFqkoz3lqodACnOlCihFj-MnzNb2Vcqd8/edit?tab=t.0#heading=h.lds1iinfg4rk)
+
+*Note*: You only need to use below commands (tested with ruby version `3.3.0`)
+
+```bash
+# install dependencies
+bundle install
+
+# run server
+bundle exec jekyll serve --livereload --incremental
+```
 
 Thanks
