@@ -62,6 +62,7 @@ exclude: ["thoughts-principles-react/node_modules/*"]
 4. run the serve command with --livereload, when using below command with `sudo` the devlopment server seems to work (otherwise I get permission error):
 
 ```bash
+# run server
 sudo bundle exec jekyll serve --livereload --incremental
 
 # to expose on internal ip address
