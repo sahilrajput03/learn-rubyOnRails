@@ -20,6 +20,9 @@ bundle install
 
 # run server
 bundle exec jekyll serve --livereload --incremental
+
+# to expose on internal ip address
+bundle exec jekyll serve --livereload --incremental --host=0.0.0.0
 ```
 
 ## Notes for Archlinux (June 2024)
@@ -58,4 +61,9 @@ exclude: ["thoughts-principles-react/node_modules/*"]
 
 4. run the serve command with --livereload, when using below command with `sudo` the devlopment server seems to work (otherwise I get permission error):
 
-`sudo bundle exec jekyll serve --livereload --incremental`
+```bash
+sudo bundle exec jekyll serve --livereload --incremental
+
+# to expose on internal ip address
+bundle exec jekyll serve --livereload --incremental --host=0.0.0.0
+```
