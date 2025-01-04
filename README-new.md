@@ -1,6 +1,7 @@
 # Running your github pages site locally with jekyll
 
 Sources:
+- Jekyll on Docker (my dockerHelsinki's notes) with multi-stage build: [Click here](https://github.com/sahilrajput03/dockerHelsinki/blob/master/Part3/course-partt3/five/README.md#L12)
 - Jekyll Template: https://github.com/topics/jekyll-theme
 - AWESOME (*this finally helped*): [Click here](https://github.com/orgs/community/discussions/37669#discussioncomment-4079487)
 - Docs - Testing your GitHub Pages site locally with Jekyll: [Click here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
