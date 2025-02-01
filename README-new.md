@@ -9,6 +9,7 @@ Sources:
 - Jekyll docs: [Click here](https://jekyllrb.com/docs/)
 	- Above docs suggested the additional install of `webrick` by running `bundle add webrick` which is necessary.
 - Exclude folders from jekyll compilation, for e.g., `node_modules` - [Click here](https://talk.jekyllrb.com/t/can-i-exclude-files-in-my-project-folders-from-my-site/396)
+- Adding script tag to markdown file --- search for `SEARCH FUNCTIONALITY` on sahilrajput.com's markdown file to see example import of js file there.
 
 ## Notes for MacOS (Dec 2024)
 
