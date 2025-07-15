@@ -27,3 +27,16 @@ gem install rails
 # Create a new Rails project
 rails new my_api --api
 ```
+
+## from DHH
+
+From - [https://www.youtube.com/watch?v=vagyIcmIGOQ](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/4a2a2833-4b31-4f1a-ba27-ed911457c7b2" />
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/c62c8a9a-c84b-44d3-a1e6-2edad9b062b2" />
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/7a2709a7-9365-428e-bb4c-513fcbccf894" />
+
+<img width="1280" height="468" alt="image" src="https://github.com/user-attachments/assets/458dbff2-ea0a-4ae3-bff3-9d0848c1566d" />
+
