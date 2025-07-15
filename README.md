@@ -1,6 +1,7 @@
 # README - Abandoned temporarily..
 
 **Quick Links:**
+- [https://rubyonrails.org](https://rubyonrails.org/)
 - Ruby on rails (Githbu): [https://github.com/rails/rails](https://github.com/rails/rails)
 
 A command like `gem install jekyll bundler` installs both `Jekyll` and `Bundler` gems globally on your system. When you use `gem install`, it installs the specified gem(s) into the system's global gem repository, making them available system-wide for all users and projects.
