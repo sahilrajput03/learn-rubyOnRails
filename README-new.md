@@ -1,6 +1,9 @@
 # Running your github pages site locally with jekyll
 
 Sources:
+- **❤️Reusing some markdown file in multiple other markdown files?**: [ChatGPT](https://chatgpt.com/c/69e9e7a9-cd6c-83e8-a8bc-779ca6ac9b6b)
+	- Usage: [`lineflow-links.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/_includes/lineflow-links.md) is used in files - [`a-TODO.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-TODO.md), [`a-DONE.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-DONE.md) and [`a-FUTURE.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-FUTURE.md).
+	 	- **Check this live at: [sahilrajput.com/lineflow/a-TODO](https://sahilrajput.com/lineflow/a-TODO)**
 - Jekyll on Docker (my dockerHelsinki's notes) with multi-stage build: [Click here](https://github.com/sahilrajput03/dockerHelsinki/blob/master/Part3/course-partt3/five/README.md#L12)
 - Jekyll Template: https://github.com/topics/jekyll-theme
 - AWESOME (*this finally helped*): [Click here](https://github.com/orgs/community/discussions/37669#discussioncomment-4079487)
