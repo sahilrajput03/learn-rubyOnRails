@@ -2,6 +2,7 @@
 
 Sources:
 - **TODO: Do this tutorial of jekyll to learn more about jekyll (otherwise plan for migrating your site to using svelte in future):** [Docs - Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+- Jekyll uses the Liquid templating language to process templates. ([Docs](https://jekyllrb.com/docs/liquid/))
 - **❤️Reusing some markdown file in multiple other markdown files?**: [ChatGPT](https://chatgpt.com/c/69e9e7a9-cd6c-83e8-a8bc-779ca6ac9b6b)
 	- Usage: [`lineflow-links.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/_includes/lineflow-links.md) is used in files - [`a-TODO.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-TODO.md), [`a-DONE.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-DONE.md) and [`a-FUTURE.md`](https://github.com/sahilrajput03/sahilrajput03/blob/main/lineflow/a-FUTURE.md).
 	 	- **Check this live at: [sahilrajput.com/lineflow/a-TODO](https://sahilrajput.com/lineflow/a-TODO)**
