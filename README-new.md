@@ -22,7 +22,7 @@ Sources:
 ### ❤️Using mise (new, modern and reliable way)
 
 ```sh
-# Install ruby v3.1 and it creates `mise.toml` which contains above specified ruby version.
+# Install ruby v3.1 and it creates `mise.toml` which contains specified ruby version in this command:
 mise use ruby@3.1
 # ruby --version
 # OUTPUT: ruby 3.1.7p261 (2025-03-26 revision 0a3704f218) [x86_64-darwin24]
