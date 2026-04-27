@@ -40,7 +40,7 @@ bundle exec jekyll serve --livereload --incremental
 bundle exec jekyll serve --livereload --incremental --host=0.0.0.0
 ```
 
-### Using RVM (OLDER WAY)
+### ❌❌ Using RVM (OLDER WAY)
 
 **I AM NOT USING RVM ON MY MACOS BECAUSE IT WAS GETTING CLASHED WITH `MISE` and ALSO RVM SEEMS POOR TO ME AND MISE IS MORE MORDERN TOOL AND POPULAR TOOL AND RVM SEEMS UNMAINTAINED ON GITHUB AS THERE ARE LOT OF GITHUB ISSUES ON ITS REPO).
 
