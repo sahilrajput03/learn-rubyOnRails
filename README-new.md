@@ -19,6 +19,30 @@ Sources:
 
 ## Notes for MacOS (Dec 2024)
 
+### Using mise (new, modern and reliable way)
+
+```sh
+# Install ruby v3.1 - For usage for running jekyll (github pages locall):
+mise use ruby@3.1
+# ruby --version
+# OUTPUT: ruby 3.1.7p261 (2025-03-26 revision 0a3704f218) [x86_64-darwin24]
+
+# install deps from Gemfile
+bundle install
+# Get jekyll installed version (in the above command):
+# bundle exec jekyll -v
+
+# run server
+bundle exec jekyll serve --livereload --incremental
+
+# to expose on internal ip address
+bundle exec jekyll serve --livereload --incremental --host=0.0.0.0
+```
+
+### Using RVM (OLDER WAY)
+
+**I AM NOT USING RVM ON MY MACOS BECAUSE IT WAS GETTING CLASHED WITH `MISE` and ALSO RVM SEEMS POOR TO ME AND MISE IS MORE MORDERN TOOL AND POPULAR TOOL AND RVM SEEMS UNMAINTAINED ON GITHUB AS THERE ARE LOT OF GITHUB ISSUES ON ITS REPO).
+
 Installing ruby: Search for `Installing rvm` - [Learn MacOS](https://docs.google.com/document/d/1d4Tq28JC17lFqkoz3lqodACnOlCihFj-MnzNb2Vcqd8/edit?tab=t.0#heading=h.lds1iinfg4rk)
 
 *Note*: You only need to use below commands (tested with ruby version `3.3.0`)
