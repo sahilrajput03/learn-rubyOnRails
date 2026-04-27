@@ -31,6 +31,7 @@ mise use ruby@3.1
 bundle install
 # Get jekyll installed version (in the above command):
 # bundle exec jekyll -v
+# OUTPUT: jekyll 3.9.5
 
 # run server
 bundle exec jekyll serve --livereload --incremental
