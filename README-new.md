@@ -19,7 +19,7 @@ Sources:
 
 ## Notes for MacOS (Dec 2024)
 
-### Using mise (new, modern and reliable way)
+### ❤️Using mise (new, modern and reliable way)
 
 ```sh
 # Install ruby v3.1 and it creates `mise.toml` which contains above specified ruby version.
