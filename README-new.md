@@ -42,7 +42,11 @@ bundle exec jekyll serve --livereload --incremental --host=0.0.0.0
 
 ### ❌❌ Using RVM (OLDER WAY)
 
-**I AM NOT USING RVM ON MY MACOS BECAUSE IT WAS GETTING CLASHED WITH `MISE` and ALSO RVM SEEMS POOR TO ME AND MISE IS MORE MORDERN TOOL AND POPULAR TOOL AND RVM SEEMS UNMAINTAINED ON GITHUB AS THERE ARE LOT OF GITHUB ISSUES ON ITS REPO).**
+**I AM NOT USING RVM ON MY MACOS (actually uninstalled) BECAUSE:**
+1. IT WAS GETTING CLASHED WITH `mise` as the PATH vars were happening for both executables. (ChatGPT suggested to never mix using these version managers and to toally remove one or the other so I ended up removing `rvm`).
+2. ALSO `rvm` SEEMS POOR TO ME in usage.
+3. RVM SEEMS UNMAINTAINED ON GITHUB AS THERE ARE LOT OF GITHUB ISSUES ON ITS REPO).
+4. AND `mise` IS MORE MORDERN TOOL AND POPULAR TOOL
 
 Installing ruby: Search for `Installing rvm` - [Learn MacOS](https://docs.google.com/document/d/1d4Tq28JC17lFqkoz3lqodACnOlCihFj-MnzNb2Vcqd8/edit?tab=t.0#heading=h.lds1iinfg4rk)
 
