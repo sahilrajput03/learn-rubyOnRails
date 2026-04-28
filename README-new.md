@@ -29,7 +29,7 @@ mise use ruby@3.1
 
 # install deps from Gemfile
 bundle install
-# Get jekyll installed version (in the above command):
+# Check version of jekyll installed by above command:
 # bundle exec jekyll -v
 # OUTPUT: jekyll 3.9.5
 
