@@ -2,7 +2,7 @@
 
 Sources:
 - **TODO: Do this tutorial of jekyll to learn more about jekyll (otherwise plan for migrating your site to using svelte in future):** [Docs - Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
-- ❤️Learn Liquid: [Click here](https://docs.google.com/document/d/1R8aAe8MvdabvqQhe-6B4C8phR_-O7PFtjl6amaT9ynQ/edit?tab=t.2qsiveckahqj#heading=h.a6k4ps6fijex)
+- ❤️🚀Learn Liquid: [Click here](https://docs.google.com/document/d/1R8aAe8MvdabvqQhe-6B4C8phR_-O7PFtjl6amaT9ynQ/edit?tab=t.2qsiveckahqj#heading=h.a6k4ps6fijex)
 	- ❤️Docs - Jekyll uses the Liquid templating language to process templates. ([Docs](https://jekyllrb.com/docs/liquid/))
 - Jekyll on Docker (my dockerHelsinki's notes) with multi-stage build: [Click here](https://github.com/sahilrajput03/dockerHelsinki/blob/master/Part3/course-partt3/five/README.md#L12)
 - Jekyll Template: https://github.com/topics/jekyll-theme
